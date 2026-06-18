@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=24&duration=3000&pause=500&color=667eea&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Engineer;ERPNext+Specialist;ML+Systems+Architect;Building+Production+Software)](https://github.com/viveksonawane45)
 
 <a href="https://github.com/viveksonawane45"><img src="https://img.shields.io/badge/Pune%2C%20India-667eea?style=flat-square&logo=google-maps&logoColor=white" alt="Location" /></a>
-<a href="https://viveksonawane45.github.io"><img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/viveksonawane45"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="[https://viveksonawane45.github.io](https://viveksonawane45.github.io/vivek-portfolio/)"><img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="[https://linkedin.com/in/viveksonawane45](https://www.linkedin.com/in/vivek-sonawane-012765210/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:sonawanevivek63@gmail.com"><img src="https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/viveksonawane45"><img src="https://img.shields.io/badge/GitHub-667eea?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 

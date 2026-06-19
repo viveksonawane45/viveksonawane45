@@ -31,54 +31,115 @@
 I'm a **Full-Stack AI & Data Science Engineer** with expertise in building production-grade software systems at the intersection of machine learning, enterprise software, and cloud infrastructure. Currently pursuing advanced studies in AI & Data Science while actively contributing to **ERP implementation and digital transformation** initiatives.
 
 **Core Strengths:**
-- 🤖 **AI/ML Engineering** — GPT-4 integrations, LLM fine-tuning, ensemble models, RAG systems
-- 🏗️ **Full-Stack Development** — React, Django, FastAPI, Node.js, cloud deployment
-- 📊 **Data Architecture** — ETL pipelines, Neo4j graph databases, analytics platforms
-- 🔧 **ERP Systems** — ERPNext customization, Frappe framework, enterprise workflows
-- ☁️ **Cloud & DevOps** — AWS, Docker, CI/CD, infrastructure automation
 
-**Open To:**
-- Machine Learning Engineering roles
-- Senior Full-Stack positions
-- ERP/Enterprise Software opportunities
-- AI Product development
-- Consulting & freelance projects
+- 🤖 **Artificial Intelligence & Generative AI** — Building intelligent systems using LLMs, RAG architectures, Prompt Engineering, BioBERT, LangChain, LangGraph, and AI-powered enterprise applications.
 
+- 🏗️ **Full-Stack Engineering** — Developing production-grade applications with React, Next.js, Django, FastAPI, Node.js, REST APIs, and cloud-native architectures.
+
+- 📊 **Data & Analytics Engineering** — Transforming raw data into actionable insights through EDA, ETL pipelines, SQL optimization, Power BI, Tableau, and predictive analytics.
+
+- 🗄️ **Knowledge Graphs & Data Systems** — Designing scalable data architectures using MySQL, PostgreSQL, MongoDB, Neo4j, semantic search, and GraphRAG frameworks.
+
+- 🔧 **ERP & Enterprise Solutions** — Delivering ERPNext and Frappe-based business applications, workflow automation, HRMS systems, CRM solutions, and digital transformation initiatives.
+
+- ☁️ **Cloud & DevOps** — Deploying secure, scalable applications with Google Cloud Platform, Docker, GitHub Actions, CI/CD pipelines, Linux, and modern development workflows.
+
+- 💡 **Product Innovation & Leadership** — Driving product development, stakeholder collaboration, technical mentoring, and cross-functional teamwork to solve real-world business challenges.
+
+## 🎯 Open To
+
+![AI Engineer](https://img.shields.io/badge/AI_Engineer-8A2BE2?style=for-the-badge)
+![Software Engineer](https://img.shields.io/badge/Software_Engineer-667eea?style=for-the-badge)
+![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-0078D4?style=for-the-badge)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![ERPNext Developer](https://img.shields.io/badge/ERPNext_Developer-0089FF?style=for-the-badge)
+![Python Developer](https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-3DA639?style=for-the-badge&logo=github)
 ---
 
 ## 💻 Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Backend & Databases
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-667eea?style=flat-square&logo=frappe&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-0088CC?style=flat-square&logo=neo4j&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+
+### AI / ML & Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-8A2BE2?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Systems-667eea?style=flat-square)
+![BioBERT](https://img.shields.io/badge/BioBERT-667eea?style=flat-square)
+![LLM](https://img.shields.io/badge/Large_Language_Models-8A2BE2?style=flat-square)
+
+
+### Analytics & Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-667eea?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-8A2BE2?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-667eea?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-8A2BE2?style=flat-square)
+
 ### Cloud, DevOps & Tooling
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Frappe](https://img.shields.io/badge/Frappe-667eea?style=flat-square&logo=frappe&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-667eea?style=flat-square)
 
 ---
 

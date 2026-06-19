@@ -212,7 +212,7 @@ Minimalist design with particle effects, glassmorphism cards, animated backgroun
 ## 💼 Experience
 
 ### **AI & Data Science Engineering** | *Self-Directed Learning & Projects*
-**Current (2024–2025)**
+**Current (2025–Present)**
 
 Building production-grade AI systems with focus on LLM integration, RAG architectures, and enterprise ML deployment. Actively contributing to ERP customization and digital transformation initiatives.
 
@@ -257,6 +257,96 @@ Architected and deployed multiple full-stack applications across healthcare, e-c
 
 **Skills:** React, Next.js, Django, FastAPI, AWS, Docker, PostgreSQL
 
+
+---
+
+## 💼 Internship Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Data Analytics & Science Intern
+**NexGen Analytix**
+
+📅 Dec 2025 – Mar 2026
+
+- 📊 Data Cleaning & Preprocessing
+- 📈 Exploratory Data Analysis (EDA)
+- 🤖 Analytical Models & Dashboards
+- 📉 Statistical Analysis
+- 💡 Business Insights Generation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+
+<td width="50%">
+
+### ☁️ Arcade Facilitator
+**Google Cloud Platform**
+
+📅 Jul 2024 – Sept 2024
+
+- ☁️ Cloud Infrastructure
+- 🚀 GCP Deployments
+- 📊 Cloud Monitoring
+- 🔄 Application Integration
+- ⚡ Scalability Optimization
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-667eea?style=flat-square)
+![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💻 Full Stack Intern
+**CodingEra Software Pvt. Ltd.**
+
+📅 Jan 2025 – Mar 2025
+
+- 🌐 React Development
+- ⚛️ Angular Projects
+- 🎨 Responsive UI Design
+- 🔥 JavaScript Development
+- 🏗️ Full Stack Applications
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+
+<td width="50%">
+
+### 🚀 Product Development Intern
+**Black Orange Talent**
+
+📅 Oct 2023 – Jun 2024
+
+- 📦 Product Development Lifecycle
+- 🎓 Training & Facilitation
+- 💡 Problem Solving & Innovation
+- 📈 Market Research
+- 🏢 Product Strategy
+
+![Product Development](https://img.shields.io/badge/Product_Development-667eea?style=flat-square)
+![Innovation](https://img.shields.io/badge/Innovation-8A2BE2?style=flat-square)
+![Leadership](https://img.shields.io/badge/Leadership-667eea?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
 ---
 
 ## 🏆 Achievements
@@ -274,30 +364,105 @@ Architected and deployed multiple full-stack applications across healthcare, e-c
 ---
 
 ## 📜 Certifications
+---
+<p align="center">
 
-### AWS
-![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Developer](https://img.shields.io/badge/AWS%20Developer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<img src="https://img.shields.io/badge/IIT_Guwahati-Advanced_Data_Science_&_Analytics-FF6F00?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 
-### Oracle
-![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<img src="https://img.shields.io/badge/Google_Cloud-21_Skill_Badges-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 
-### NPTEL
-![Python for Data Science](https://img.shields.io/badge/Python%20for%20Data%20Science-1f77b4?style=for-the-badge)
-![Database Systems](https://img.shields.io/badge/Database%20Systems-1f77b4?style=for-the-badge)
+<img src="https://img.shields.io/badge/JPMorgan_Chase-Software_Engineering_Simulation-005EB8?style=for-the-badge&logo=jpmorgan-chase&logoColor=white"/>
 
-### Specialized
-![LLM Integration](https://img.shields.io/badge/LLM%20Integration-667eea?style=for-the-badge&logo=openai&logoColor=white)
-![ERPNext Development](https://img.shields.io/badge/ERPNext%20Development-667eea?style=for-the-badge&logo=frappe&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-Certification-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/The_Lean_Startup-Entrepreneurship-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cryptocurrency-Course-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+
+</p>
 
 ---
+
+---
+
+## 🎓 Education
+
+| Degree | Institute | Grade | Duration |
+|--------|------------|--------|-----------|
+| B.E. Artificial Intelligence & Data Science | International School of Business & Media (ISBM COE) | **CGPA: 9.05** | 2022 - 2026 |
+| Higher Secondary (12th) | Sri Chaitanya Junior College, Pune | **86.50%** | 2021 - 2022 |
+| Secondary Education (10th) | Vivekanand Vidyalaya, Chopda | **92.80%** | 2019 - 2020 |
+
+---
+
+
+---
+
+## 🏅 Leadership & Extracurricular
+
+### 🎯 Coordinator – Social Media Club, ISBM COE
+
+- 📱 Digital Engagement Strategy
+- 🎪 Event Management & Coordination
+- 👥 Team Leadership
+- 🎨 Content Creation & Branding
+- 📢 Social Media Management
+
+![Leadership](https://img.shields.io/badge/Leadership-8A2BE2?style=flat-square)
+![Teamwork](https://img.shields.io/badge/Teamwork-667eea?style=flat-square)
+![Communication](https://img.shields.io/badge/Communication-0078D4?style=flat-square)
+![Branding](https://img.shields.io/badge/Branding-667eea?style=flat-square)
+
+---
+
+---
+
+## 🛠 Professional Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Problem_Solving-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Analytical_Thinking-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Leadership-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Communication-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stakeholder_Collaboration-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Presentation_Skills-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Time_Management-667eea?style=for-the-badge"/>
+
+</p>
+
+---
+
+---
+
+## ☁️ Google Cloud Achievements
+
+<div align="center">
+
+🏆 **Google Cloud Arcade Facilitator Program**
+
+🎖️ Earned **21 Google Cloud Skill Badges**
+
+🚀 Hands-on experience with:
+
+![Compute Engine](https://img.shields.io/badge/Compute_Engine-4285F4?style=flat-square&logo=google-cloud)
+![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat-square&logo=google-cloud)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud)
+![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=google-cloud)
+![Kubernetes Engine](https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=kubernetes)
+
+</div>
+
+---
+
+
+
 
 ## 🎯 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/viveksonawane45)](https://leetcode.com/viveksonawane45)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&link=https://geeksforgeeks.org)](https://geeksforgeeks.org)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&link=https://hackerrank.com)](https://hackerrank.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&link=https://codechef.com)](https://codechef.com)
 
 ---
 

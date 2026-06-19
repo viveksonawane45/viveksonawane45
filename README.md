@@ -228,7 +228,7 @@ Building production-grade AI systems with focus on LLM integration, RAG architec
 ---
 
 ### **ERPNext Implementation & Customization** | *Exacuer Global Services Pvt. Ltd., Pune*
-**2024–Present**
+**April 2026–Present**
 
 Contributing to ERP implementations for enterprise clients with focus on module customization, workflow automation, and Frappe app development.
 
@@ -244,7 +244,7 @@ Contributing to ERP implementations for enterprise clients with focus on module 
 ---
 
 ### **Full-Stack Development** | *Portfolio Projects*
-**2023–2024**
+**2025–2026**
 
 Architected and deployed multiple full-stack applications across healthcare, e-commerce, and analytics domains.
 
